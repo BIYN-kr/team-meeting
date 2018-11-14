@@ -6,8 +6,8 @@ BIYN 팀별 회의록 저장소입니다.
 
 ## 현재 활동 중인 팀
 
-- [테크팀]()
-- [성평등팀]()
+- [테크팀](https://github.com/BIYN-kr/team-meeting/tree/master/tech)
+- [성평등팀](https://github.com/BIYN-kr/team-meeting/tree/master/gender)
 
 ## 회의록 저장소 활용가이드
 
